@@ -117,8 +117,8 @@ class App extends Component {
               <AnchorLink href='#display'><button value ="Sculpture" onClick={this.handleClick}>Sculpture</button></AnchorLink>
               <AnchorLink href='#display'><button value="Photographs" onClick={this.handleClick}>Photography</button></AnchorLink>
               <AnchorLink href='#display'><button value="Prints" onClick={this.handleClick}>Prints</button></AnchorLink>
-              <AnchorLink href='#display'><button value="Audiovisual Works" onClick={this.handleClick}>Audiovisual</button></AnchorLink>
-              <AnchorLink href='#display'><button value="Graphic Design" onClick={this.handleClick}>Design</button></AnchorLink>
+              {/* <AnchorLink href='#display'><button value="Audiovisual Works" onClick={this.handleClick}>Audiovisual</button></AnchorLink>
+              <AnchorLink href='#display'><button value="Graphic Design" onClick={this.handleClick}>Design</button></AnchorLink> */}
             </div> 
               <ArtDisplay artInfo={this.state.result} />    
           </div>
