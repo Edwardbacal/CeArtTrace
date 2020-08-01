@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CeArtTrace/static/css/main.f8b6719b.chunk.css",
-    "main.js": "/CeArtTrace/static/js/main.6743a910.chunk.js",
-    "main.js.map": "/CeArtTrace/static/js/main.6743a910.chunk.js.map",
+    "main.css": "/CeArtTrace/static/css/main.d606bedc.chunk.css",
+    "main.js": "/CeArtTrace/static/js/main.92381f18.chunk.js",
+    "main.js.map": "/CeArtTrace/static/js/main.92381f18.chunk.js.map",
     "runtime-main.js": "/CeArtTrace/static/js/runtime-main.42675915.js",
     "runtime-main.js.map": "/CeArtTrace/static/js/runtime-main.42675915.js.map",
     "static/js/2.832f8cc2.chunk.js": "/CeArtTrace/static/js/2.832f8cc2.chunk.js",
     "static/js/2.832f8cc2.chunk.js.map": "/CeArtTrace/static/js/2.832f8cc2.chunk.js.map",
     "index.html": "/CeArtTrace/index.html",
-    "precache-manifest.a09f8f206f58afeb5e8a3f1d0400492e.js": "/CeArtTrace/precache-manifest.a09f8f206f58afeb5e8a3f1d0400492e.js",
+    "precache-manifest.7cae12ba31af9e95c6390f26665cebe1.js": "/CeArtTrace/precache-manifest.7cae12ba31af9e95c6390f26665cebe1.js",
     "service-worker.js": "/CeArtTrace/service-worker.js",
-    "static/css/main.f8b6719b.chunk.css.map": "/CeArtTrace/static/css/main.f8b6719b.chunk.css.map",
+    "static/css/main.d606bedc.chunk.css.map": "/CeArtTrace/static/css/main.d606bedc.chunk.css.map",
     "static/js/2.832f8cc2.chunk.js.LICENSE.txt": "/CeArtTrace/static/js/2.832f8cc2.chunk.js.LICENSE.txt",
     "static/media/harv.png": "/CeArtTrace/static/media/harv.de9b2e40.png",
     "static/media/App.css": "/CeArtTrace/static/media/paper.95453fc3.jpeg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.42675915.js",
     "static/js/2.832f8cc2.chunk.js",
-    "static/css/main.f8b6719b.chunk.css",
-    "static/js/main.6743a910.chunk.js"
+    "static/css/main.d606bedc.chunk.css",
+    "static/js/main.92381f18.chunk.js"
   ]
 }

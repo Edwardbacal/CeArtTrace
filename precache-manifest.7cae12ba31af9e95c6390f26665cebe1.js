@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbd981c9b5324867ab66ab91c8ebc17a",
+    "revision": "51304a80c6d522d46ab0d6823172b9f8",
     "url": "/CeArtTrace/index.html"
   },
   {
-    "revision": "e2611855a1fe8e4d7efa",
-    "url": "/CeArtTrace/static/css/main.f8b6719b.chunk.css"
+    "revision": "e091b3ffcf695514aeff",
+    "url": "/CeArtTrace/static/css/main.d606bedc.chunk.css"
   },
   {
     "revision": "bcc4405f7b489aee2bb7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CeArtTrace/static/js/2.832f8cc2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e2611855a1fe8e4d7efa",
-    "url": "/CeArtTrace/static/js/main.6743a910.chunk.js"
+    "revision": "e091b3ffcf695514aeff",
+    "url": "/CeArtTrace/static/js/main.92381f18.chunk.js"
   },
   {
     "revision": "59c4774662c05515213c",

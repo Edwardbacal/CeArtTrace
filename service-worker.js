@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CeArtTrace/precache-manifest.a09f8f206f58afeb5e8a3f1d0400492e.js"
+  "/CeArtTrace/precache-manifest.7cae12ba31af9e95c6390f26665cebe1.js"
 );
 
 self.addEventListener('message', (event) => {
